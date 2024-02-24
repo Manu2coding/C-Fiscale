@@ -1,0 +1,28 @@
+
+h1 {
+    font-family: Courier;
+    
+  }
+  body {
+    background-color: #c7c7db;
+      padding: 50px 0;
+  }
+  
+  ul {
+      list-style-type: none;
+  }
+  
+  input {
+   
+  /*         height: 30px; */
+          padding-left: 10px;
+          border-radius: 4px;
+          border: 1px solid rgb(211, 118, 118);
+          box-shadow: 0px 0px 12px #c49c9c;
+        }
+  #sposto{
+      margin-left:10px;
+  }
+  input[type = 'radio']{
+  /*     padding-top:20px; */
+  }
